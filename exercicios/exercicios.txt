@@ -1,0 +1,85 @@
+
+📘 Lista de Exercícios em C
+🔹 Nível 1 – Fundamentos (entrada, saída e variáveis)
+
+1.Hello World: Escreva um programa que exiba “Olá, mundo!” no console.
+
+2.Entrada de nome: Peça para o usuário digitar seu nome e imprima “Olá, [nome]!”.
+
+3.Soma de dois números: Leia dois inteiros e exiba a soma.
+
+4.Média de notas: Leia três notas e calcule a média.
+
+5.Conversão de temperatura: Leia uma temperatura em °C e converta para °F.
+
+🔹 Nível 2 – Condicionais e operadores
+
+6.Par ou ímpar: Leia um número e diga se ele é par ou ímpar.
+
+7.Maior de dois números: Leia dois números e exiba o maior.
+
+8.Aprovado ou reprovado: Leia a média de um aluno e diga se ele foi aprovado (>= 7).
+
+9.Calculadora simples: Leia dois números e uma operação (+, -, *, /) e calcule o resultado.
+
+10.Classificação de idade: Leia a idade de uma pessoa e informe se ela é criança, adolescente, adulto ou idoso.
+
+🔹 Nível 3 – Laços de repetição
+
+11.Contagem de 1 a 10: Imprima os números de 1 até 10.
+
+12.Tabuada: Leia um número e exiba sua tabuada de 1 a 10.
+
+13.Soma de N números: Leia um valor N e depois N números, exibindo a soma total.
+
+14.Fatorial: Calcule o fatorial de um número.
+
+15.Números primos: Leia um número e diga se ele é primo.
+
+🔹 Nível 4 – Vetores e matrizes
+
+16.Maior elemento de um vetor: Leia 10 números e mostre o maior.
+
+17.Média dos elementos: Leia N números em um vetor e calcule a média.
+
+18.Inversão de vetor: Leia um vetor e mostre seus elementos na ordem inversa.
+
+19.Matriz identidade: Leia N e crie uma matriz identidade NxN.
+
+20.Soma de matrizes: Leia duas matrizes 2x2 e calcule a soma.
+
+🔹 Nível 5 – Funções
+
+21.Função de soma: Crie uma função que receba dois inteiros e retorne a soma.
+
+22.Função fatorial: Implemente o cálculo do fatorial usando função.
+
+23.Função primo: Crie uma função que retorne se um número é primo.
+
+24.Conversão de segundos: Crie uma função que receba segundos e retorne horas, minutos e segundos.
+
+25.Média com função: Escreva uma função que calcule a média de notas de um aluno.
+
+🔹 Nível 6 – Ponteiros e alocação dinâmica
+
+26.Troca de valores: Implemente uma função que troque o valor de duas variáveis usando ponteiros.
+
+27.Soma de vetor (com ponteiros): Calcule a soma de elementos de um vetor usando ponteiros.
+
+28.Maior número (com ponteiros): Retorne o maior número de um vetor usando ponteiros.
+
+29.Alocação dinâmica: Leia N números usando malloc e calcule a média.
+
+30.Strings dinâmicas: Leia uma string de tamanho variável com malloc e exiba.
+
+🔹 Nível 7 – Estruturas
+
+31.Cadastro de aluno: Crie uma struct Aluno com nome, idade e média. Leia e exiba os dados.
+
+32.Lista de produtos: Crie um vetor de structs Produto (nome, preço, quantidade) e exiba o estoque.
+
+33.Média da turma: Leia dados de vários alunos e calcule a média geral da turma.
+
+34.Funcionários: Estruture dados de funcionários (nome, salário) e encontre o maior salário.
+
+35.Agenda de contatos: Crie uma agenda com struct Pessoa (nome, telefone, email).
